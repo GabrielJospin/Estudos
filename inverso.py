@@ -18,3 +18,4 @@ while j < i :
 
 for i in range(1, len(lista)): 
 	print (lista[i], end = '\t')
+

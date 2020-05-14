@@ -13,4 +13,3 @@ def FindNumber(Array):
 			j +=1
 
 		i+=1
-		
